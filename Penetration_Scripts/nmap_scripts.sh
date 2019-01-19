@@ -1,6 +1,7 @@
 #!bin/bash
-clear
+#This script will search nmap scripts that you can run on your target
 
+clear
 read -p "Which script would you like to search? (a for all):" var
 if [ $var -eq "a" ]
 then
