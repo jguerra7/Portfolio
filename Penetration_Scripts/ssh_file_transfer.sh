@@ -1,4 +1,5 @@
 #!/bin/bash
+#Simple script to transfer files to your target via ssh
 
 
 read -p "Enter name of file:" file
