@@ -1,4 +1,5 @@
 #!/bin/bash
+#This script is designed to use agains a hashdump from a windows machine
 clear
 
 rm -rf /root/.john
